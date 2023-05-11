@@ -1,0 +1,15 @@
+/mnt/d/Dev/personal/playground/testgpg/bin/Debug/net7.0/testgpg
+/mnt/d/Dev/personal/playground/testgpg/bin/Debug/net7.0/testgpg.deps.json
+/mnt/d/Dev/personal/playground/testgpg/bin/Debug/net7.0/testgpg.runtimeconfig.json
+/mnt/d/Dev/personal/playground/testgpg/bin/Debug/net7.0/testgpg.dll
+/mnt/d/Dev/personal/playground/testgpg/bin/Debug/net7.0/testgpg.pdb
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/testgpg.csproj.AssemblyReference.cache
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/testgpg.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/testgpg.AssemblyInfoInputs.cache
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/testgpg.AssemblyInfo.cs
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/testgpg.csproj.CoreCompileInputs.cache
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/testgpg.dll
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/refint/testgpg.dll
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/testgpg.pdb
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/testgpg.genruntimeconfig.cache
+/mnt/d/Dev/personal/playground/testgpg/obj/Debug/net7.0/ref/testgpg.dll
